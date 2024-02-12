@@ -1,4 +1,4 @@
-"Month,Day_of_month,Day_of_week,ozone_reading,pressure_height,Wind_speed,Humidity,Temperature_Sandburg,Temperature_ElMonte,Inversion_base_height,Pressure_gradient,Inversion_temperature,Visibility
+"Month,""Day_of_month"",""Day_of_week"",""ozone_reading"",""pressure_height"",""Wind_speed"",""Humidity"",""Temperature_Sandburg"",""Temperature_ElMonte"",""Inversion_base_height"",""Pressure_gradient"",""Inversion_temperature"",""Visibility"""
 1,5,1,5.34,5760,3,51,54,45.32,1450,25,57.02,60
 1,6,2,5.77,5720,4,69,35,49.64,1568,15,53.78,60
 1,7,3,3.69,5790,6,19,45,46.4,2631,-33,54.14,100
